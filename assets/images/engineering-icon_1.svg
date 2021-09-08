@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="60px" height="60px" viewBox="0 0 60 60" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 42 (36781) - http://www.bohemiancoding.com/sketch -->
+    <title>Group 88</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <ellipse id="path-1" cx="30" cy="30" rx="30" ry="30"></ellipse>
+        <mask id="mask-2" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="60" height="60" fill="white">
+            <use xlink:href="#path-1"></use>
+        </mask>
+        <rect id="path-3" x="3.2" y="0.464646465" width="26.4" height="17.6565657" rx="4"></rect>
+        <mask id="mask-4" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="26.4" height="17.6565657" fill="white">
+            <use xlink:href="#path-3"></use>
+        </mask>
+        <path d="M5.03370629,18.1212121 L27.7153527,18.1212121 C28.410235,18.1212121 29.2480694,18.7383233 29.5829397,19.491097 L31.8626519,24.6157901 C32.1992094,25.3723566 31.7544645,25.9856749 30.8644718,25.9856749 L1.8845872,25.9856749 C0.996749991,25.9856749 0.551536749,25.3685637 0.886407019,24.6157901 L3.16611925,19.491097 C3.50267677,18.7345305 4.3371369,18.1212121 5.03370629,18.1212121 Z" id="path-5"></path>
+        <mask id="mask-6" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="31.2" height="7.86446281" fill="white">
+            <use xlink:href="#path-5"></use>
+        </mask>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="CT-HP-v1-Copy-5" transform="translate(-121.000000, -3757.000000)" stroke="#EB7100">
+            <g id="TUTORS" transform="translate(-47.000000, 1557.000000)">
+                <g id="Group-26" transform="translate(48.000000, 2037.000000)">
+                    <g id="Group-52" transform="translate(120.000000, 160.000000)">
+                        <g id="Group-88" transform="translate(0.000000, 3.000000)">
+                            <use id="Oval" mask="url(#mask-2)" stroke-width="4" fill="#FFFFFF" xlink:href="#path-1"></use>
+                            <g id="Group-24" transform="translate(14.000000, 15.000000)">
+                                <g id="Group-23">
+                                    <path d="M8.8,22.0606061 L7.2,22.0606061" id="Line-Copy-23" stroke-width="2" stroke-linecap="round"></path>
+                                    <path d="M21.0000002,22.060606 L12,22.060606" id="Line-Copy-37" stroke-width="2" stroke-linecap="round"></path>
+                                    <path d="M25.8008512,22.0606061 L24,22.0606061" id="Line-Copy-36" stroke-width="2" stroke-linecap="round"></path>
+                                    <use id="Rectangle-9-Copy-4" mask="url(#mask-4)" stroke-width="5" xlink:href="#path-3"></use>
+                                    <use id="Rectangle-9-Copy-5" mask="url(#mask-6)" stroke-width="4" xlink:href="#path-5"></use>
+                                </g>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

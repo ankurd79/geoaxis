@@ -1,0 +1,30 @@
+/* Add here all your CSS customizations */
+body{font-size:16px!important;}
+.copyright{ background-color:#000000; text-align:center; color:#FFFFFF; padding:20px 0px; font-size:12px;}
+.testimonial blockquote {background: transparent;}
+.testimonial {margin-bottom: 0px;}
+.testimonial p{font-size: 2.4em; line-height: 1.4; text-align: center; font-family: Georgia, serif; font-style: italic;}
+.testimonial p::before{font-size: 80px; font-style: normal;}
+/*.testimonial p span{font-size: 80px; font-style: normal; display:inline-block!important;}*/
+.home-intro{background-color: rgba(255,133,43, 1);}
+.logo_cont {
+    padding: 22px 0;
+    float: left;
+    color: #ff852b!important;
+    font-family: 'Satisfy', cursive;
+    font-size: 40px;
+    line-height: 130%;
+}
+
+html #header.header-semi-transparent .header-nav-main nav > ul > li > a:hover{color:#ff852b;}
+.profile {
+    position: absolute;
+    right: 5%;
+    bottom: 15%;
+    color: #fff;
+    z-index: 99;
+    width: 30%;
+	color:#fff;
+	
+}
+.profile p{color:#fff!important;}

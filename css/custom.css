@@ -1,0 +1,55 @@
+/* Add here all your CSS customizations */
+body{font-size:16px!important;}
+.blackbg{ background-color:#000000;}
+.copyright{ background-color:#000000; text-align:center; color:#FFFFFF; padding:20px 0px; font-size:12px; border-top:1px solid #ff852b;}
+.testimonial blockquote {background: transparent;}
+.testimonial {margin-bottom: 0px;}
+.testimonial p{font-size: 1.65em; line-height: 1.4; text-align: center; font-family: Georgia, serif; font-style: italic;}
+.testimonial p::before{font-size: 80px; font-style: normal;}
+/*.testimonial p span{font-size: 80px; font-style: normal; display:inline-block!important;}*/
+.home-intro{background-color: rgba(0,0,0, 1);}
+.logo_cont {
+    padding: 5px 0px 0px 0;
+    float: left;
+    color: #ff852b!important;
+    font-family: 'Satisfy', cursive;
+    font-size: 35px;
+    line-height: 130%;
+	text-align:center;
+}
+
+html #header.header-semi-transparent .header-nav-main nav > ul > li > a:hover{color:#ff852b;}
+.profile {
+    position: absolute;
+    right: 5%;
+    bottom: 2%;
+    color: #fff;
+    z-index: 99;
+    width: 45%;
+	color:#fff;
+	
+}
+.profile p{color:#fff!important;}
+.inner-page-container{margin-top:5%;}
+.inner-page-container h2{color:#fff; margin-bottom:0px; padding-top:3%;}
+.inner-page-container p.video-caption{ text-align:center; color:#fff; margin:0px; padding:0px;}
+.inner-content p{color:#fff;}
+.inner-content h2{color:#fff; margin-bottom:10px;}
+.inner-content h6{color:#fff;}
+#more {display: none;}
+#myBtn{ background-color:#ff852b; border:0px; color:#fff; padding:1% 4%; border-radius:5px;}
+
+.inner-content ul li{color:#fff; margin-bottom:6px;}
+
+.owl-theme .owl-dots{margin-top:20px;}
+.owl-carousel .owl-item{ text-align:center;}
+.owl-carousel.owl-drag .owl-item img{width:800px; height:600px; display:inline-block!important;}
+
+.list.list-icons li > .fas{color: #fff!important; border-color: #fff!important;}
+
+.contact-form p{color:#fff;}
+.contact-form h4{color:#ff852b!important;}
+.list.list-icons.list-icons-style-3 li > .fas:first-child{background-color:#ff852b!important;}
+.list.list-icons.list-icons-style-3 li > .far:first-child{background-color:#ff852b!important;}
+html .btn-primary{background-color: #ff852b; border-color: #ff852b #ff852b #ff852b; color: #ffffff;}
+html .btn-primary:hover{background-color: #ef802f; border-color: #ef802f #ef802f #ef802f; color: #ffffff;}
